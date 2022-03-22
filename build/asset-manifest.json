@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-form-converter/static/css/main.e4da2bcc.css",
+    "main.js": "/react-form-converter/static/js/main.71c04189.js",
+    "index.html": "/react-form-converter/index.html",
+    "main.e4da2bcc.css.map": "/react-form-converter/static/css/main.e4da2bcc.css.map",
+    "main.71c04189.js.map": "/react-form-converter/static/js/main.71c04189.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4da2bcc.css",
+    "static/js/main.71c04189.js"
+  ]
+}
